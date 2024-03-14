@@ -1,0 +1,122 @@
+{
+  "ClanCastle": {
+    "Level": 3,
+    "Capacity": {
+      "Troops": 20
+    }
+  },
+  "Resources": {
+    "GoldMine": {
+      "Count": 6,
+      "Level": 10
+    },
+    "ElixirCollector": {
+      "Count": 6,
+      "Level": 10
+    },
+    "GoldStorage": {
+      "Count": 2,
+      "Level": 10
+    },
+    "ElixirStorage": {
+      "Count": 2,
+      "Level": 10
+    }
+  },
+  "Defence": {
+    "Cannon": {
+      "Count": 3,
+      "Level": 7
+    },
+    "ArcherTower": {
+      "Count": 3,
+      "Level": 7
+    },
+    "Walls": {
+      "Count": 125,
+      "Level": 6
+    },
+    "Mortar": {
+      "Count": 2,
+      "Level": 4
+    },
+    "AirDefence": {
+      "Count": 2,
+      "Level": 4
+    },
+    "WizardTower": {
+      "Count": 2,
+      "Level": 3
+    },
+    "AirSweeper": {
+      "Count": 1,
+      "Level": 2
+    }
+  },
+  "Army": {
+    "Camps": {
+      "Count": 3,
+      "Level": 6
+    },
+    "Barracks": {
+      "Level": 8
+    },
+    "SpellFactory": {
+      "Level":2
+    },
+    "Laboratory": {
+      "Level": 4
+    }
+  },
+  "Laboratory": {
+    "Troops": {
+      "Barbarian": {
+        "Level": 3
+      },
+      "Archer": {
+        "Level": 3
+      },
+      "Giant": {
+        "Level": 3
+      },
+      "Goblin": {
+        "Level": 3
+      },
+      "WallBreaker": {
+        "Level": 3
+      },
+      "Balloon": {
+        "Level": 3
+      },
+      "Wizards": {
+        "Level": 3
+      }
+    },
+    "Spells": {
+      "LightningSpell": {
+        "Level": 4
+      },
+      "HealSpell": {
+        "Level": 3
+      }
+    }
+  },
+  "Traps": {
+    "Bomb": {
+      "Count": 4,
+      "Level": 3
+    },
+    "SpringTrap": {
+      "Count": 4,
+      "Level": 1
+    },
+    "AirBombs": {
+      "Count": 2,
+      "Level": 2
+    },
+    "GiantBombs": {
+      "Count": 1,
+      "Level": 2
+    }
+  }
+}

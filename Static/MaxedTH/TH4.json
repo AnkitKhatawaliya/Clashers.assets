@@ -1,0 +1,91 @@
+{
+  "ClanCastle": {
+    "Level": 2,
+    "Capacity":{
+      "Troops":15
+    }
+  },
+  "Resources": {
+    "GoldMine": {
+      "Count": 4,
+      "Level": 8
+    },
+    "ElixirCollector": {
+      "Count": 4,
+      "Level": 8
+    },
+    "GoldStorage": {
+      "Count": 2,
+      "Level": 8
+    },
+    "ElixirStorage": {
+      "Count": 2,
+      "Level": 8
+    }
+  },
+  "Defence": {
+    "Cannon": {
+      "Count": 2,
+      "Level": 5
+    },
+    "ArcherTower":
+    {
+      "Count": 2,
+      "Level": 4
+    },
+    "Walls":{
+      "Count": 75,
+      "Level": 4
+    },
+    "Mortar": {
+      "Count": 1,
+      "Level": 2
+    },
+    "AirDefence": {
+       "Count": 1,
+      "Level": 2
+    }
+  },
+  "Army": {
+    "Camps": {
+      "Count": 2,
+      "Level": 4
+    },
+    "Barracks": {
+      "Level": 6
+    },
+    "Laboratory": {
+      "Level": 2
+    }
+  },
+  "Laboratory": {
+    "Barbarian": {
+      "Level": 2
+    },
+    "Archer": {
+      "Level": 2
+    },
+    "Giant": {
+      "Level": 2
+    },
+    "Goblin": {
+      "Level": 2
+    },
+    "WallBreaker": {
+      "Level": 2
+    },
+    "Balloon": {
+      "Level": 2
+    }
+  },
+  "Traps": {
+    "Bomb": {
+      "Count": 2,
+      "Level": 2
+    },
+    "SpringTrap": {
+       "Count": 2,
+      "Level": 1
+    }
+  }
+}
