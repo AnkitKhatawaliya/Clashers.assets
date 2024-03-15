@@ -1,91 +1,77 @@
 {
-  "ClanCastle": {
-    "Level": 2,
-    "Capacity":{
-      "Troops":15
-    }
+  "Clan Castle": {
+    "Level": 2
   },
-  "Resources": {
-    "GoldMine": {
-      "Count": 4,
-      "Level": 8
-    },
-    "ElixirCollector": {
-      "Count": 4,
-      "Level": 8
-    },
-    "GoldStorage": {
-      "Count": 2,
-      "Level": 8
-    },
-    "ElixirStorage": {
-      "Count": 2,
-      "Level": 8
-    }
+  "Gold Mine": {
+    "Count": 4,
+    "Level": 8
   },
-  "Defence": {
-    "Cannon": {
-      "Count": 2,
-      "Level": 5
-    },
-    "ArcherTower":
-    {
-      "Count": 2,
-      "Level": 4
-    },
-    "Walls":{
-      "Count": 75,
-      "Level": 4
-    },
-    "Mortar": {
-      "Count": 1,
-      "Level": 2
-    },
-    "AirDefence": {
-       "Count": 1,
-      "Level": 2
-    }
+  "Elixir Collector": {
+    "Count": 4,
+    "Level": 8
   },
-  "Army": {
-    "Camps": {
-      "Count": 2,
-      "Level": 4
-    },
-    "Barracks": {
-      "Level": 6
-    },
-    "Laboratory": {
-      "Level": 2
-    }
+  "Gold Storage": {
+    "Count": 2,
+    "Level": 8
+  },
+  "Elixir Storage": {
+    "Count": 2,
+    "Level": 8
+  },
+  "Cannon": {
+    "Count": 2,
+    "Level": 5
+  },
+  "Archer Tower": {
+    "Count": 2,
+    "Level": 4
+  },
+  "Walls": {
+    "Count": 75,
+    "Level": 4
+  },
+  "Mortar": {
+    "Count": 1,
+    "Level": 2
+  },
+  "Air Defence": {
+    "Count": 1,
+    "Level": 2
+  },
+  "Camp": {
+    "Count": 2,
+    "Level": 4
+  },
+  "Barracks": {
+    "Level": 6
   },
   "Laboratory": {
-    "Barbarian": {
-      "Level": 2
-    },
-    "Archer": {
-      "Level": 2
-    },
-    "Giant": {
-      "Level": 2
-    },
-    "Goblin": {
-      "Level": 2
-    },
-    "WallBreaker": {
-      "Level": 2
-    },
-    "Balloon": {
-      "Level": 2
-    }
+    "Level": 2
   },
-  "Traps": {
-    "Bomb": {
-      "Count": 2,
-      "Level": 2
-    },
-    "SpringTrap": {
-       "Count": 2,
-      "Level": 1
-    }
+  "Barbarian": {
+    "Level": 2
+  },
+  "Archer": {
+    "Level": 2
+  },
+  "Giant": {
+    "Level": 2
+  },
+  "Goblin": {
+    "Level": 2
+  },
+  "Wall Breaker": {
+    "Level": 2
+  },
+  "Balloon": {
+    "Level": 2
+  },
+  "Bomb": {
+    "Count": 2,
+    "Level": 2
+  },
+  "Spring Trap": {
+    "Count": 2,
+    "Level": 1
   }
 }
