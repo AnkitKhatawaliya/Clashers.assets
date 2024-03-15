@@ -1,0 +1,193 @@
+{
+  "ClanCastle": {
+    "Level": 4,
+    "Capacity": {
+      "Troops": 25,
+      "Spell":1
+    }
+  },
+  "Resources": {
+    "GoldMine": {
+      "Count": 6,
+      "Level": 12
+    },
+    "ElixirCollector": {
+      "Count": 6,
+      "Level": 12
+    },
+    "DarkElixirDrill": {
+      "Count": 2,
+      "Level":3
+    },
+    "GoldStorage": {
+      "Count": 3,
+      "Level": 11
+    },
+    "ElixirStorage": {
+      "Count": 3,
+      "Level": 11
+    },
+    "DarkElixirStorage": {
+      "Level": 4
+    }
+  },
+  "Defence": {
+    "Cannon": {
+      "Count": 5,
+      "Level": 10
+    },
+    "ArcherTower": {
+      "Count": 5,
+      "Level": 10
+    },
+    "Mortar": {
+      "Count": 4,
+      "Level": 6
+    },
+    "AirDefence": {
+      "Count": 3,
+      "Level": 6
+    },
+    "WizardTower": {
+      "Count": 3,
+      "Level": 6
+    },
+    "AirSweeper": {
+      "Count": 1,
+      "Level": 4
+    },
+    "HiddenTesla": {
+      "Count": 3,
+      "Level": 6
+    },
+    "Walls": {
+      "Count": 225,
+      "Level": 8
+    },
+    "BombTower": {
+      "Count":1,
+      "Level":2
+    }
+  },
+  "Army": {
+    "Camps": {
+      "Count": 4,
+      "Level": 6
+    },
+    "Barracks": {
+      "Level": 10
+    },
+    "DarkBarracks": {
+      "Level":4
+    },
+    "SpellFactory": {
+      "Level":3
+    },
+    "Laboratory": {
+      "Level": 6
+    },
+    "DarkSpellFactory": {
+      "Level":2
+    },
+    "Blacksmith": {
+      "Level":1
+    }
+  },
+  "Laboratory": {
+    "Troops": {
+      "Barbarian": {
+        "Level": 5
+      },
+      "Archer": {
+        "Level": 5
+      },
+      "Giant": {
+        "Level": 5
+      },
+      "Goblin": {
+        "Level": 5
+      },
+      "WallBreaker": {
+        "Level": 5
+      },
+      "Balloon": {
+        "Level": 5
+      },
+      "Wizards": {
+        "Level": 5
+      },
+      "Healer": {
+        "Level": 3
+      },
+      "Dragon": {
+        "Level": 3
+      },
+      "P.E.K.K.A": {
+        "Level": 3
+      },
+      "Minion": {
+        "Level": 4
+      },
+      "HogRider": {
+        "Level": 4
+      },
+      "Valkyrie": {
+        "Level": 2
+      },
+      "Golem": {
+        "Level": 2
+      }
+    },
+    "Spells": {
+      "LightningSpell": {
+        "Level": 5
+      },
+      "HealSpell": {
+        "Level": 5
+      },
+      "RageSpell": {
+        "Level": 5
+      },
+      "PoisonSpell": {
+        "Level": 2
+      },
+      "EarthquakeSpell": {
+        "Level": 2
+      }
+    }
+  },
+  "Heroes": {
+    "BarbarianKing": {
+      "Level": 20
+    }
+  },
+  "Traps": {
+    "Bomb": {
+      "Count": 6,
+      "Level": 5
+    },
+    "SpringTrap": {
+      "Count": 6,
+      "Level": 3
+    },
+    "AirBombs": {
+      "Count": 4,
+      "Level": 3
+    },
+    "GiantBombs": {
+      "Count": 3,
+      "Level": 3
+    },
+    "SeekingAirMine": {
+      "Count": 2,
+      "Level": 1
+    },
+    "SkeletonTrap": {
+      "Count": 2,
+      "Level": 2
+    }
+  },
+  "Equipment": {
+
+  }
+}

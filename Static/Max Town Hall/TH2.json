@@ -1,0 +1,58 @@
+{
+  "Resources": {
+    "GoldMine": {
+      "Count": 2,
+      "Level": 4
+    },
+    "ElixirCollector": {
+      "Count": 2,
+      "Level": 4
+    },
+    "GoldStorage": {
+      "Count": 1,
+      "Level": 3
+    },
+    "ElixirStorage": {
+      "Count": 1,
+      "Level": 3
+    }
+  },
+  "Defence": {
+    "Cannon": {
+      "Count": 2,
+      "Level": 3
+    },
+    "ArcherTower":
+    {
+      "Count": 1,
+      "Level": 2
+    },
+    "Walls":{
+      "Count": 25,
+      "Level": 2
+    }
+  },
+  "Army": {
+    "Camps": {
+      "Count": 1,
+      "Level": 2
+    },
+    "Barracks": {
+      "Level": 4
+    }
+  },
+  "Laboratory": {
+    "Barbarian": {
+      "Level": 1
+    },
+    "Archer": {
+      "Level": 1
+    },
+    "Giant": {
+      "Level": 1
+    },
+    "Goblin": {
+      "Level": 1
+    }
+  }
+}

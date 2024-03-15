@@ -1,0 +1,80 @@
+{
+  "ClanCastle": {
+    "Level": 1,
+    "Capacity":{
+      "Troops":10
+    }
+  },
+  "Resources": {
+    "GoldMine": {
+      "Count": 3,
+      "Level": 6
+    },
+    "ElixirCollector": {
+      "Count": 3,
+      "Level": 6
+    },
+    "GoldStorage": {
+      "Count": 2,
+      "Level": 6
+    },
+    "ElixirStorage": {
+      "Count": 2,
+      "Level": 6
+    }
+  },
+  "Defence": {
+    "Cannon": {
+      "Count": 2,
+      "Level": 4
+    },
+    "ArcherTower":
+    {
+      "Count": 1,
+      "Level": 3
+    },
+    "Walls":{
+      "Count": 50,
+      "Level": 3
+    },
+    "Mortar": {
+      "Count": 1,
+      "Level": 1
+    }
+  },
+  "Army": {
+    "Camps": {
+      "Count": 2,
+      "Level": 3
+    },
+    "Barracks": {
+      "Level": 5
+    },
+    "Laboratory": {
+      "Level": 1
+    }
+  },
+  "Laboratory": {
+    "Barbarian": {
+      "Level": 2
+    },
+    "Archer": {
+      "Level": 2
+    },
+    "Giant": {
+      "Level": 1
+    },
+    "Goblin": {
+      "Level": 2
+    },
+    "WallBreaker": {
+      "Level": 1
+    }
+  },
+  "Traps": {
+    "Bomb": {
+      "Count": 2,
+      "Level": 2
+    }
+  }
+}
