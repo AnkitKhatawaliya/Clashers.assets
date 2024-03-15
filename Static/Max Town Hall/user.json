@@ -1,0 +1,8 @@
+{
+  "Name": "ANkit",
+  "Age": 21,
+  "Address": {
+    "City": "Chandigarh",
+    "House": 21
+  }
+}
