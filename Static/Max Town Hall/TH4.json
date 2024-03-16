@@ -1,6 +1,7 @@
 {
   "Clan Castle": {
-    "Level": 2
+    "Level": 2,
+    "max": 11
   },
   "Gold Mine": {
     "Count": 4,
