@@ -5,31 +5,159 @@
   },
   "Elixir Collector": {
     "Level": 11,
-    "Count": 6,
     "Max Level": 16
   },
   "Gold Mine": {
     "Level": 11,
-    "Count": 6,
     "Max Level": 16
   },
   "Dark Elixir Drill": {
     "Level": 3,
-    "Count": 1,
     "Max Level": 10
   },
   "Elixir Storage": {
     "Level": 11,
-    "Count": 2,
     "Max Level": 17
   },
   "Gold Storage": {
     "Level": 11,
-    "Count": 2,
     "Max Level": 17
   },
   "Dark Elixir Storage": {
     "Level":2,
     "Max Level":11
+  },
+  "Barracks": {
+    "Level":9,
+    "Max Level": 17
+  },
+  "Army Camp": {
+    "Level": 6,
+    "Max Level": 12
+  },
+  "Laboratory": {
+    "Level": 5,
+    "Max Level": 14
+  },
+  "Dark Barracks": {
+    "Level": 2,
+    "Max Level": 10
+  },
+  "Spell Factory": {
+    "Level":3,
+    "Max Level": 7
+  },
+  "Barbarian King": {
+    "Level": 10,
+    "Max Level": 95
+  },
+  "Barbarian": {
+    "Level": 4,
+    "Max Level": 12
+  },
+  "Archer": {
+    "Level": 4,
+    "Max Level": 12
+  },
+  "Giant": {
+    "Level":4,
+    "Max Level": 12
+  },
+  "Goblin": {
+    "Level": 4,
+    "Max Level": 9
+  },
+  "Wall Breaker": {
+    "Level":4,
+    "Max Level": 12
+  },
+  "Balloon": {
+    "Level":4,
+    "Max Level": 11
+  },
+  "Wizard" : {
+    "Level": 4,
+    "Max Level": 12
+  },
+  "Healer": {
+    "Level": 2,
+    "Max Level": 9
+  },
+  "Dragon": {
+    "Level": 2,
+    "Max Level": 11
+  },
+  "Hog Rider": {
+    "Level": 2,
+    "Max Level": 13
+  },
+  "Minion": {
+    "Level": 2,
+    "Max Level": 12
+  },
+  "Lightning Spell": {
+    "Level": 4,
+    "Max Level": 11
+  },
+  "Healing Spell": {
+    "Level": 4,
+    "Max Level": 10
+  },
+  "Rage Spell": {
+    "Level": 4,
+    "Max Level": 6
+  },
+  "Wall": {
+    "Level": 7,
+    "Count": 175,
+    "Max Level": 17
+  },
+  "Cannon": {
+    "Level": 8,
+    "Max Level": 21
+  },
+  "Archer Tower": {
+    "Level":8,
+    "Max Level": 21
+  },
+  "Wizard Tower": {
+    "Level": 4,
+    "Max Level": 16
+  },
+  "Air Defense": {
+    "Level": 5,
+    "Max Level": 14
+  },
+  "Mortar": {
+    "Level":5,
+    "Max Level": 16
+  },
+  "Hidden Tesla": {
+    "Level": 3,
+    "Max Level": 15
+  },
+  "Air Sweeper": {
+    "Level": 3,
+    "Max Level": 7
+  },
+  "Bomb": {
+    "Level": 4,
+    "Max Level" : 12
+  },
+  "Spring Trap": {
+    "Level": 2,
+    "Max Level" : 5
+  },
+  "Air Bomb": {
+    "Level": 3,
+    "Max Level": 11
+  },
+  "Seeking Air Mine": {
+    "Level":1,
+    "Max Level": 6
+  },
+  "Giant Bomb": {
+    "Level":2,
+    "Max Level": 10
   }
 }

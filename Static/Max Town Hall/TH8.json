@@ -1,193 +1,212 @@
 {
-  "ClanCastle": {
-    "Level": 4,
-    "Capacity": {
-      "Troops": 25,
-      "Spell":1
-    }
+  "Clan Castle": {
+    "Level":4,
+    "Max Level": 11
   },
-  "Resources": {
-    "GoldMine": {
-      "Count": 6,
-      "Level": 12
-    },
-    "ElixirCollector": {
-      "Count": 6,
-      "Level": 12
-    },
-    "DarkElixirDrill": {
-      "Count": 2,
-      "Level":3
-    },
-    "GoldStorage": {
-      "Count": 3,
-      "Level": 11
-    },
-    "ElixirStorage": {
-      "Count": 3,
-      "Level": 11
-    },
-    "DarkElixirStorage": {
-      "Level": 4
-    }
+  "Elixir Collector": {
+    "Level": 12,
+    "Max Level": 16
   },
-  "Defence": {
-    "Cannon": {
-      "Count": 5,
-      "Level": 10
-    },
-    "ArcherTower": {
-      "Count": 5,
-      "Level": 10
-    },
-    "Mortar": {
-      "Count": 4,
-      "Level": 6
-    },
-    "AirDefence": {
-      "Count": 3,
-      "Level": 6
-    },
-    "WizardTower": {
-      "Count": 3,
-      "Level": 6
-    },
-    "AirSweeper": {
-      "Count": 1,
-      "Level": 4
-    },
-    "HiddenTesla": {
-      "Count": 3,
-      "Level": 6
-    },
-    "Walls": {
-      "Count": 225,
-      "Level": 8
-    },
-    "BombTower": {
-      "Count":1,
-      "Level":2
-    }
+  "Gold Mine": {
+    "Level": 12,
+    "Max Level": 16
   },
-  "Army": {
-    "Camps": {
-      "Count": 4,
-      "Level": 6
-    },
-    "Barracks": {
-      "Level": 10
-    },
-    "DarkBarracks": {
-      "Level":4
-    },
-    "SpellFactory": {
-      "Level":3
-    },
-    "Laboratory": {
-      "Level": 6
-    },
-    "DarkSpellFactory": {
-      "Level":2
-    },
-    "Blacksmith": {
-      "Level":1
-    }
+  "Dark Elixir Drill": {
+    "Level": 3,
+    "Max Level": 10
+  },
+  "Elixir Storage": {
+    "Level": 11,
+    "Max Level": 17
+  },
+  "Gold Storage": {
+    "Level": 11,
+    "Max Level": 17
+  },
+  "Dark Elixir Storage": {
+    "Level":4,
+    "Max Level":11
+  },
+  "Barracks": {
+    "Level":10,
+    "Max Level": 17
+  },
+  "Army Camp": {
+    "Level": 6,
+    "Max Level": 12
   },
   "Laboratory": {
-    "Troops": {
-      "Barbarian": {
-        "Level": 5
-      },
-      "Archer": {
-        "Level": 5
-      },
-      "Giant": {
-        "Level": 5
-      },
-      "Goblin": {
-        "Level": 5
-      },
-      "WallBreaker": {
-        "Level": 5
-      },
-      "Balloon": {
-        "Level": 5
-      },
-      "Wizards": {
-        "Level": 5
-      },
-      "Healer": {
-        "Level": 3
-      },
-      "Dragon": {
-        "Level": 3
-      },
-      "P.E.K.K.A": {
-        "Level": 3
-      },
-      "Minion": {
-        "Level": 4
-      },
-      "HogRider": {
-        "Level": 4
-      },
-      "Valkyrie": {
-        "Level": 2
-      },
-      "Golem": {
-        "Level": 2
-      }
-    },
-    "Spells": {
-      "LightningSpell": {
-        "Level": 5
-      },
-      "HealSpell": {
-        "Level": 5
-      },
-      "RageSpell": {
-        "Level": 5
-      },
-      "PoisonSpell": {
-        "Level": 2
-      },
-      "EarthquakeSpell": {
-        "Level": 2
-      }
-    }
+    "Level": 6,
+    "Max Level": 14
   },
-  "Heroes": {
-    "BarbarianKing": {
-      "Level": 20
-    }
+  "Dark Barracks": {
+    "Level": 4,
+    "Max Level": 10
   },
-  "Traps": {
-    "Bomb": {
-      "Count": 6,
-      "Level": 5
-    },
-    "SpringTrap": {
-      "Count": 6,
-      "Level": 3
-    },
-    "AirBombs": {
-      "Count": 4,
-      "Level": 3
-    },
-    "GiantBombs": {
-      "Count": 3,
-      "Level": 3
-    },
-    "SeekingAirMine": {
-      "Count": 2,
-      "Level": 1
-    },
-    "SkeletonTrap": {
-      "Count": 2,
-      "Level": 2
-    }
+  "Spell Factory": {
+    "Level":3,
+    "Max Level": 7
+  },
+  "Dark Spell Factory": {
+    "Level": 2,
+    "Max Level": 6
+  },
+  "Blacksmith": {
+    "Level": 1,
+    "Max Level ": 9
+  },
+  "Barbarian King": {
+    "Level": 20,
+    "Max Level": 95
+  },
+  "Barbarian": {
+    "Level": 5,
+    "Max Level": 12
+  },
+  "Archer": {
+    "Level": 5,
+    "Max Level": 12
+  },
+  "Giant": {
+    "Level":5,
+    "Max Level": 12
+  },
+  "Goblin": {
+    "Level": 5,
+    "Max Level": 9
+  },
+  "Wall Breaker": {
+    "Level":5,
+    "Max Level": 12
+  },
+  "Balloon": {
+    "Level":5,
+    "Max Level": 11
+  },
+  "Wizard" : {
+    "Level": 5,
+    "Max Level": 12
+  },
+  "Healer": {
+    "Level": 3,
+    "Max Level": 9
+  },
+  "Dragon": {
+    "Level": 3,
+    "Max Level": 11
+  },
+  "P.E.K.K.A" : {
+    "Level": 3,
+    "Max Level": 11
+  },
+  "Minion": {
+    "Level": 4,
+    "Max Level": 12
+  },
+  "Hog Rider": {
+    "Level": 4,
+    "Max Level": 13
+  },
+  "Valkyrie": {
+    "Level": 2,
+    "Max Level": 11
+  },
+  "Golem": {
+    "Level": 2,
+    "Max Level": 13
+  },
+  "Lightning Spell": {
+    "Level": 5,
+    "Max Level": 11
+  },
+  "Healing Spell": {
+    "Level": 5,
+    "Max Level": 10
+  },
+  "Rage Spell": {
+    "Level": 5,
+    "Max Level": 6
+  },
+  "Poison Spell": {
+    "Level": 2,
+    "Max Level": 10
+  },
+  "Earthquake Spell": {
+    "Level": 2,
+    "Max Level": 5
   },
   "Equipment": {
+    "Level":,
+    "Max Level":
+  },
+  "Equipment": {
+    "Level":,
+    "Max Level":
+  },
+  "Equipment": {
+    "Level":,
+    "Max Level":
+  },
 
+  "Wall": {
+    "Level": 8,
+    "Count": 225,
+    "Max Level": 17
+  },
+  "Cannon": {
+    "Level": 10,
+    "Max Level": 21
+  },
+  "Archer Tower": {
+    "Level": 10,
+    "Max Level": 21
+  },
+  "Wizard Tower": {
+    "Level": 6,
+    "Max Level": 16
+  },
+  "Air Defense": {
+    "Level": 6,
+    "Max Level": 14
+  },
+  "Bomb Tower": {
+    "Level": 2,
+    "Max Level": 11
+  },
+  "Mortar": {
+    "Level":6,
+    "Max Level": 16
+  },
+  "Hidden Tesla": {
+    "Level": 6,
+    "Max Level": 15
+  },
+  "Air Sweeper": {
+    "Level": 4,
+    "Max Level": 7
+  },
+  "Bomb": {
+    "Level": 5,
+    "Max Level" : 12
+  },
+  "Spring Trap": {
+    "Level": 3,
+    "Max Level" : 5
+  },
+  "Air Bomb": {
+    "Level": 3,
+    "Max Level": 11
+  },
+  "Seeking Air Mine": {
+    "Level":1,
+    "Max Level": 6
+  },
+  "Skeleton Trap": {
+    "Level": 2,
+    "Max Level": 5
+  },
+  "Giant Bomb": {
+    "Level":3,
+    "Max Level": 10
   }
 }
