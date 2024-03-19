@@ -1,162 +1,35 @@
 {
-  "ClanCastle": {
+  "Clan Castle": {
+    "Level":3,
+    "Max Level": 11
+  },
+  "Elixir Collector": {
+    "Level": 11,
+    "Count": 6,
+    "Max Level": 16
+  },
+  "Gold Mine": {
+    "Level": 11,
+    "Count": 6,
+    "Max Level": 16
+  },
+  "Dark Elixir Drill": {
     "Level": 3,
-    "Capacity": {
-      "Troops": 20
-    }
+    "Count": 1,
+    "Max Level": 10
   },
-  "Resources": {
-    "GoldMine": {
-      "Count": 6,
-      "Level": 11
-    },
-    "ElixirCollector": {
-      "Count": 6,
-      "Level": 11
-    },
-    "DarkElixirDrill": {
-      "Count": 1,
-      "Level":3
-    },
-    "GoldStorage": {
-      "Count": 2,
-      "Level": 11
-    },
-    "ElixirStorage": {
-      "Count": 2,
-      "Level": 11
-    },
-    "DarkElixirStorage": {
-      "Level": 2
-    }
+  "Elixir Storage": {
+    "Level": 11,
+    "Count": 2,
+    "Max Level": 17
   },
-  "Defence": {
-    "Cannon": {
-      "Count": 5,
-      "Level": 8
-    },
-    "ArcherTower": {
-      "Count": 4,
-      "Level": 8
-    },
-    "Mortar": {
-      "Count": 3,
-      "Level": 5
-    },
-    "AirDefence": {
-      "Count": 3,
-      "Level": 5
-    },
-    "WizardTower": {
-      "Count": 2,
-      "Level": 4
-    },
-    "AirSweeper": {
-      "Count": 1,
-      "Level": 3
-    },
-    "HiddenTesla": {
-      "Count": 2,
-      "Level": 3
-    },
-    "Walls": {
-      "Count": 175,
-      "Level": 7
-    }
+  "Gold Storage": {
+    "Level": 11,
+    "Count": 2,
+    "Max Level": 17
   },
-  "Army": {
-    "Camps": {
-      "Count": 4,
-      "Level": 6
-    },
-    "Barracks": {
-      "Level": 9
-    },
-    "DarkBarracks": {
-      "Level":2
-    },
-    "SpellFactory": {
-      "Level":3
-    },
-    "Laboratory": {
-      "Level": 5
-    }
-  },
-  "Laboratory": {
-    "Troops": {
-      "Barbarian": {
-        "Level": 4
-      },
-      "Archer": {
-        "Level": 4
-      },
-      "Giant": {
-        "Level": 4
-      },
-      "Goblin": {
-        "Level": 4
-      },
-      "WallBreaker": {
-        "Level": 4
-      },
-      "Balloon": {
-        "Level": 4
-      },
-      "Wizards": {
-        "Level": 4
-      },
-      "Healer": {
-        "Level": 2
-      },
-      "Dragon": {
-        "Level": 2
-      },
-      "Minion": {
-        "Level": 2
-      },
-      "HogRider": {
-        "Level": 2
-      }
-    },
-    "Spells": {
-      "LightningSpell": {
-        "Level": 4
-      },
-      "HealSpell": {
-        "Level": 4
-      },
-      "RageSpell": {
-        "Level": 4
-      }
-    }
-  },
-  "Heroes": {
-    "BarbarianKing": {
-      "Level": 10
-
-    }
-  },
-  "Traps": {
-    "Bomb": {
-      "Count": 6,
-      "Level": 4
-    },
-    "SpringTrap": {
-      "Count": 4,
-      "Level": 2
-    },
-    "AirBombs": {
-      "Count": 2,
-      "Level": 3
-    },
-    "GiantBombs": {
-      "Count": 2,
-      "Level": 2
-    },
-    "SeekingAirMine": {
-      "Count": 1,
-      "Level": 1
-
-    }
+  "Dark Elixir Storage": {
+    "Level":2,
+    "Max Level":11
   }
 }
