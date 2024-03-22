@@ -1,0 +1,83 @@
+{
+  "Name": "Eagle Artillery",
+  "Damage Type": "Area",
+  "Resource": "Gold",
+  "Length": 3,
+  "Breadth": 3,
+  "Range": [7,50],
+  "Activation Space": 200,
+  "Levels": {
+    "1": {
+      "Damage": {
+        "Per Second": 82.5,
+        "Per Hit": 275,
+        "Shockwave Damage": 20
+      },
+      "HitPoints": 4000,
+      "Cost": 6000000,
+      "Build Time": 7200,
+      "Experience Gained": 657,
+      "Town Hall Level Required": 11
+    },
+    "2": {
+      "Damage": {
+        "Per Second": 97.5,
+        "Per Hit": 325,
+        "Shockwave Damage": 25
+      },
+      "HitPoints": 4400,
+      "Cost": 8000000,
+      "Build Time": 7200,
+      "Experience Gained": 657,
+      "Town Hall Level Required": 11
+    },
+    "3": {
+      "Damage": {
+        "Per Second": 112.5,
+        "Per Hit": 375,
+        "Shockwave Damage": 30
+      },
+      "HitPoints": 4800,
+      "Cost": 10000000,
+      "Build Time": 12960,
+      "Experience Gained": 881,
+      "Town Hall Level Required": 12
+    },
+    "4": {
+      "Damage": {
+        "Per Second": 127.5,
+        "Per Hit": 425,
+        "Shockwave Damage": 35
+      },
+      "HitPoints": 5200,
+      "Cost": 13000000,
+      "Build Time": 14400,
+      "Experience Gained": 929,
+      "Town Hall Level Required": 13
+    },
+    "5": {
+      "Damage": {
+        "Per Second": 142.5,
+        "Per Hit": 475,
+        "Shockwave Damage": 40
+      },
+      "HitPoints": 5600,
+      "Cost": 17000000,
+      "Build Time": 18720,
+      "Experience Gained": 1059,
+      "Town Hall Level Required": 14
+    },
+    "6": {
+      "Damage": {
+        "Per Second": 150,
+        "Per Hit": 500,
+        "Shockwave Damage": 45
+      },
+      "HitPoints": 5900,
+      "Cost": 21500000,
+      "Build Time": 20160,
+      "Experience Gained": 1099,
+      "Town Hall Level Required": 15
+    }
+  }
+}

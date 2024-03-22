@@ -1,0 +1,64 @@
+{
+  "Name": "Spell Tower",
+  "Resource": "Gold",
+  "Length": 2,
+  "Breadth": 2,
+  "Levels": {
+    "1": {
+      "Unlocks": "Rage Spell",
+      "Available":["Rage Spell"],
+      "HitPoints": 2500,
+      "Cost": 14000000,
+      "Time": "12d",
+      "Experience Gained": 1018,
+      "Town Hall Level Required": 15
+    },
+    "2": {
+      "Unlocks": "Poison Spell",
+      "Available":["Rage Spell","Poison Spell"],
+      "HitPoints": 2800,
+      "Cost": 16000000,
+      "Time": "12d 12h",
+      "Experience Gained": 1039,
+      "Town Hall Level Required": 15
+    },
+    "3": {
+      "Unlocks": "Invisibility Spell",
+      "Available":["Rage Spell","Poison Spell","Invisibility Spell"],
+      "HitPoints": 3100,
+      "Cost": 18000000,
+      "Time": "13d 12h",
+      "Experience Gained": 1080,
+      "Town Hall Level Required": 15
+    },
+    "Rage Spell": {
+      "Range":9,
+      "Radius":5,
+      "Duration":18,
+      "Function":{
+        "Damage Increase": 60
+      },
+      "Recharge time": 70
+    },
+    "Poison Spell": {
+      "Range":9,
+      "Radius":5,
+      "Duration":12,
+      "Function":{
+        "Damage ": {
+          "Second": 60
+        },
+        "Speed Decrease": 35,
+        "Attack Decrease": 25
+      },
+      "Recharge time": 70
+    },
+    "Invisible Spell": {
+      "Range":4.5,
+      "Radius":4.5,
+      "Duration":4.5,
+      "Function": "Invisibility",
+      "Recharge time": 50
+    }
+  }
+}

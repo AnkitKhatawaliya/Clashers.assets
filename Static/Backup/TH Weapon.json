@@ -1,0 +1,125 @@
+{
+  "Town Hall": {
+    "12": {
+      "Name": "Giga Tesla",
+      "Levels ": {
+        "1": {
+          "Damage": {
+            "Targets": 2,
+            "Second": 120,
+            "Shot": 60,
+            "Death": 0
+          },
+          "Cost": 0,
+          "Time": 0,
+          "Experience Gained": 360
+        },
+        "2": {
+          "Damage": {
+            "Targets": 2,
+            "Second": 140,
+            "Shot": 70,
+            "Death": 0
+          },
+          "Cost": 3000000,
+          "Time": "1d 12h",
+          "Experience Gained": 487
+        },
+        "3": {
+          "Damage": {
+            "Targets": 3,
+            "Second": 140,
+            "Shot": 70,
+            "Death": 0
+          },
+          "Cost": 4200000,
+          "Time": "2d 18h",
+          "Experience Gained": 605
+        },
+        "4": {
+          "Damage": {
+            "Targets": 3,
+            "Second": 160,
+            "Shot": 80,
+            "Death": 0
+          },
+          "Cost": 5600000,
+          "Time": "4d 6h",
+          "Experience Gained": 605
+        },
+        "5": {
+          "Damage": {
+            "Targets": 4,
+            "Second": 160,
+            "Shot": 80,
+            "Death": 1000
+          },
+          "Cost": 7000000,
+          "Time": "5d 12h",
+          "Experience Gained": 689
+        }
+      }
+    },
+        "13": {
+      "Name": "Giga Inferno",
+      "Levels ": {
+        "1": {
+          "Damage": {
+            "Targets": 2,
+            "Second": 120,
+            "Shot": 60,
+            "Death": 0
+          },
+          "Cost": 0,
+          "Time": "1d 12h",
+          "Experience Gained": 360
+        },
+        "2": {
+          "Damage": {
+            "Targets": 2,
+            "Second": 140,
+            "Shot": 70,
+            "Death": 0
+          },
+          "Cost": 3000000,
+          "Time": "2d 18h",
+          "Experience Gained": 487
+        },
+        "3": {
+          "Damage": {
+            "Targets": 3,
+            "Second": 140,
+            "Shot": 70,
+            "Death": 0
+          },
+          "Cost": 4200000,
+          "Time": "4d 6h",
+          "Experience Gained": 605
+        },
+        "4": {
+          "Damage": {
+            "Targets": 3,
+            "Second": 160,
+            "Shot": 80,
+            "Death": 0
+          },
+          "Cost": 5600000,
+          "Time": "4d 6h",
+          "Experience Gained": 605
+        },
+        "5": {
+          "Damage": {
+            "Targets": 4,
+            "Second": 160,
+            "Shot": 80,
+            "Death": 1000
+          },
+          "Cost": 7000000,
+          "Time": "5d 12h",
+          "Experience Gained": 689
+        }
+      }
+    }
+
+  }
+}

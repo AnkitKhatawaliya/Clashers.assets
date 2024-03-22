@@ -1,0 +1,134 @@
+{
+  "Name": "X-Bow",
+  "Damage Type": "Single",
+  "Resource": "Gold",
+  "Length": 3,
+  "Breadth": 3,
+  "Range": {
+    "Air": 11.5,
+    "Ground": 14
+  },
+  "Levels": {
+    "1": {
+      "Damage": {
+        "Second": 60,
+        "Shot": 7.68
+      },
+      "HitPoints": 1500,
+      "Cost": 1000000,
+      "Time": "2d",
+      "Experience Gained": 415,
+      "Town Hall Level Required": 9
+    },
+    "2": {
+      "Damage": {
+        "Second": 70,
+        "Shot": 8.96
+      },
+      "HitPoints": 1900,
+      "Cost": 1600000,
+      "Time": "2d 12h",
+      "Experience Gained": 464,
+      "Town Hall Level Required": 9
+    },
+    "3": {
+      "Damage": {
+        "Second": 80,
+        "Shot": 10.24
+      },
+      "HitPoints": 2300,
+      "Cost": 2400000,
+      "Time": "3d 12h",
+      "Experience Gained": 549,
+      "Town Hall Level Required": 9
+    },
+    "4": {
+      "Damage": {
+        "Second": 90,
+        "Shot": 11.52
+      },
+      "HitPoints": 2700,
+      "Cost": 2500000,
+      "Time": "5d",
+      "Experience Gained": 657,
+      "Town Hall Level Required": 10
+    },
+    "5": {
+      "Damage": {
+        "Second": 110,
+        "Shot": 14.08
+      },
+      "HitPoints": 3100,
+      "Cost": 3900000,
+      "Time": "5d 6h",
+      "Experience Gained": 673,
+      "Town Hall Level Required": 11
+    },
+    "6": {
+      "Damage": {
+        "Second": 130,
+        "Shot": 16.64
+      },
+      "HitPoints": 3400,
+      "Cost": 6800000,
+      "Time": "8d 12h",
+      "Experience Gained": 856,
+      "Town Hall Level Required": 12
+    },
+    "7": {
+      "Damage": {
+        "Second": 150,
+        "Shot": 19.2
+      },
+      "HitPoints": 3700,
+      "Cost": 8300000,
+      "Time": "9d",
+      "Experience Gained": 881,
+      "Town Hall Level Required": 13
+    },
+    "8": {
+      "Damage": {
+        "Second": 170,
+        "Shot": 21.76
+      },
+      "HitPoints": 4000,
+      "Cost": 10300000,
+      "Time": "9d",
+      "Experience Gained": 881,
+      "Town Hall Level Required": 13
+    },
+    "9": {
+      "Damage": {
+        "Second": 190,
+        "Shot": 24.32
+      },
+      "HitPoints": 4200,
+      "Cost": 14000000,
+      "Time": "13d",
+      "Experience Gained": 1059,
+      "Town Hall Level Required": 14
+    },
+    "10": {
+      "Damage": {
+        "Second": 205,
+        "Shot": 26.24
+      },
+      "HitPoints": 4400,
+      "Cost": 20000000,
+      "Time": "13d 18h",
+      "Experience Gained": 1089,
+      "Town Hall Level Required": 15
+    },
+    "11": {
+      "Damage": {
+        "Second": 225,
+        "Shot": 28.8
+      },
+      "HitPoints": 4600,
+      "Cost": 21000000,
+      "Time": "15d",
+      "Experience Gained": 1138,
+      "Town Hall Level Required": 16
+    }
+  }
+}

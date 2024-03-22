@@ -1,0 +1,164 @@
+{
+  "Name": "Air Defence",
+  "Damage Type": "Area",
+  "Resource": "Gold",
+  "Length": 3,
+  "Breadth": 3,
+  "Range": 10,
+  "Levels": {
+    "1": {
+      "Damage": {
+        "Second": 80,
+        "Attack": 80
+      },
+      "HitPoints": 800,
+      "Cost": 22000,
+      "Time": 180,
+      "Experience Gained": 103,
+      "Town Hall Level Required": 4
+    },
+    "2": {
+      "Damage": {
+        "Second": 110,
+        "Attack": 110
+      },
+      "HitPoints": 850,
+      "Cost": 90000,
+      "Time": 480,
+      "Experience Gained": 169,
+      "Town Hall Level Required": 4
+    },
+    "3": {
+      "Damage": {
+        "Second": 140,
+        "Attack": 140
+      },
+      "HitPoints": 900,
+      "Cost": 270000,
+      "Time": 720,
+      "Experience Gained": 207,
+      "Town Hall Level Required": 5
+    },
+    "4": {
+      "Damage": {
+        "Second": 160,
+        "Attack": 160
+      },
+      "HitPoints": 950,
+      "Cost": 500000,
+      "Time": 1080,
+      "Experience Gained": 254,
+      "Town Hall Level Required": 6
+    },
+    "5": {
+      "Damage": {
+        "Second": 190,
+        "Attack": 190
+      },
+      "HitPoints": 1000,
+      "Cost": 800000,
+      "Time": 1440,
+      "Experience Gained": 293,
+      "Town Hall Level Required": 7
+    },
+    "6": {
+      "Damage": {
+        "Second": 230,
+        "Attack": 230
+      },
+      "HitPoints": 1050,
+      "Cost": 1000000,
+      "Time": 2160,
+      "Experience Gained": 360,
+      "Town Hall Level Required": 8
+    },
+    "7": {
+      "Damage": {
+        "Second": 280,
+        "Attack": 280
+      },
+      "HitPoints": 1100,
+      "Cost": 1750000,
+      "Time": 2880,
+      "Experience Gained": 415,
+      "Town Hall Level Required": 9
+    },
+    "8": {
+      "Damage": {
+        "Second": 320,
+        "Attack": 320
+      },
+      "HitPoints": 1210,
+      "Cost": 2300000,
+      "Time": 3600,
+      "Experience Gained": 464,
+      "Town Hall Level Required": 10
+    },
+    "9": {
+      "Damage": {
+        "Second": 360,
+        "Attack": 360
+      },
+      "HitPoints": 1300,
+      "Cost": 3400000,
+      "Time": 4320,
+      "Experience Gained": 509,
+      "Town Hall Level Required": 11
+    },
+    "10": {
+      "Damage": {
+        "Second": 400,
+        "Attack": 400
+      },
+      "HitPoints": 1400,
+      "Cost": 5800000,
+      "Time": 12600,
+      "Experience Gained": 869,
+      "Town Hall Level Required": 12
+    },
+    "11": {
+      "Damage": {
+        "Second": 440,
+        "Attack": 440
+      },
+      "HitPoints": 1500,
+      "Cost": 8400000,
+      "Time": 12960,
+      "Experience Gained": 881,
+      "Town Hall Level Required": 13
+    },
+    "12": {
+      "Damage": {
+        "Second": 500,
+        "Attack": 500
+      },
+      "HitPoints": 1650,
+      "Cost": 11900000,
+      "Time": 17280,
+      "Experience Gained": 1018,
+      "Town Hall Level Required": 14
+    },
+    "13": {
+      "Damage": {
+        "Second": 540,
+        "Attack": 540
+      },
+      "HitPoints": 1750,
+      "Cost": 19500000,
+      "Time": 19440,
+      "Experience Gained": 1080,
+      "Town Hall Level Required": 15
+    },
+    "14": {
+      "Damage": {
+        "Second": 600,
+        "Attack": 600
+      },
+      "HitPoints": 1850,
+      "Cost": 20500000,
+      "Time": 21600,
+      "Experience Gained": 1138,
+      "Town Hall Level Required": 16
+    }
+  }
+}

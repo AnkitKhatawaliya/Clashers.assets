@@ -1,0 +1,69 @@
+{
+  "Name": "Air Sweeper",
+  "Damage Type": "Area",
+  "Resource": "Gold",
+  "Length": 2,
+  "Breadth": 2,
+    "Range": {
+      "Tiles":[1,15],
+      "Angle":60
+    },
+  "Levels": {
+    "1": {
+      "Push Strength": 1.6,
+      "HitPoints": 750,
+      "Cost": 400000,
+      "Time": "6h",
+      "Experience Gained": 146,
+      "Town Hall Level Required": 6
+    },
+    "2": {
+      "Push Strength": 2.0,
+      "HitPoints": 800,
+      "Cost": 600000,
+      "Time": "8h",
+      "Experience Gained": 169,
+      "Town Hall Level Required": 6
+    },
+    "3": {
+      "Push Strength": 2.4,
+      "HitPoints": 850,
+      "Cost": 900000,
+      "Time": "12h",
+      "Experience Gained": 207,
+      "Town Hall Level Required": 7
+    },
+    "4": {
+      "Push Strength": 2.8,
+      "HitPoints": 900,
+      "Cost": 1200000,
+      "Time": "18h",
+      "Experience Gained": 254,
+      "Town Hall Level Required": 8
+    },
+    "5": {
+      "Push Strength": 3.2,
+      "HitPoints": 950,
+      "Cost": 1800000,
+      "Time": "1d",
+      "Experience Gained": 293,
+      "Town Hall Level Required": 9
+    },
+    "6": {
+      "Push Strength": 3.6,
+      "HitPoints": 1000,
+      "Cost": 1900000,
+      "Time": "2d",
+      "Experience Gained": 415,
+      "Town Hall Level Required": 10
+    },
+    "7": {
+      "Push Strength": 4.0,
+      "HitPoints": 1050,
+      "Cost": 3400000,
+      "Time": "3d",
+      "Experience Gained": 509,
+      "Town Hall Level Required": 11
+    }
+  }
+}

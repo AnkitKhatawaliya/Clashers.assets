@@ -1,0 +1,186 @@
+{
+  "Name": "Mortar",
+  "Damage Type": "Area",
+  "Resource": "Gold",
+  "Length": 3,
+  "Breadth": 3,
+  "Range": [4,11],
+  "Levels": {
+    "1": {
+      "Damage": {
+        "Second": 4,
+        "Shot": 20
+      },
+      "HitPoints": 400,
+      "Cost": 5000,
+      "Time": 180,
+      "Experience Gained": 103,
+      "Town Hall Level Required": 3
+    },
+    "2": {
+      "Damage": {
+        "Second": 5,
+        "Shot": 25
+      },
+      "HitPoints": 450,
+      "Cost": 25000,
+      "Time": 360,
+      "Experience Gained": 146,
+      "Town Hall Level Required": 4
+    },
+    "3": {
+      "Damage": {
+        "Second": 6,
+        "Shot": 30
+      },
+      "HitPoints": 500,
+      "Cost": 100000,
+      "Time": 720,
+      "Experience Gained": 207,
+      "Town Hall Level Required": 5
+    },
+    "4": {
+      "Damage": {
+        "Second": 7,
+        "Shot": 35
+      },
+      "HitPoints": 550,
+      "Cost": 200000,
+      "Time": 1080,
+      "Experience Gained": 254,
+      "Town Hall Level Required": 6
+    },
+    "5": {
+      "Damage": {
+        "Second": 9,
+        "Shot": 45
+      },
+      "HitPoints": 600,
+      "Cost": 300000,
+      "Time": 1440,
+      "Experience Gained": 293,
+      "Town Hall Level Required": 7
+    },
+    "6": {
+      "Damage": {
+        "Second": 11,
+        "Shot": 55
+      },
+      "HitPoints": 650,
+      "Cost": 560000,
+      "Time": 2880,
+      "Experience Gained": 415,
+      "Town Hall Level Required": 8
+    },
+    "7": {
+      "Damage": {
+        "Second": 15,
+        "Shot": 75
+      },
+      "HitPoints": 700,
+      "Cost": 1300000,
+      "Time": 3600,
+      "Experience Gained": 464,
+      "Town Hall Level Required": 9
+    },
+    "8": {
+      "Damage": {
+        "Second": 20,
+        "Shot": 100
+      },
+      "HitPoints": 800,
+      "Cost": 1900000,
+      "Time": 3600,
+      "Experience Gained": 464,
+      "Town Hall Level Required": 10
+    },
+    "9": {
+      "Damage": {
+        "Second": 25,
+        "Shot": 125
+      },
+      "HitPoints": 950,
+      "Cost": 2500000,
+      "Time": 4320,
+      "Experience Gained": 509,
+      "Town Hall Level Required": 11
+    },
+    "10": {
+      "Damage": {
+        "Second": 30,
+        "Shot": 150
+      },
+      "HitPoints": 1100,
+      "Cost": 3500000,
+      "Time": 4320,
+      "Experience Gained": 509,
+      "Town Hall Level Required": 11
+    },
+    "11": {
+      "Damage": {
+        "Second": 35,
+        "Shot": 175
+      },
+      "HitPoints": 1300,
+      "Cost": 5800000,
+      "Time": 10080,
+      "Experience Gained": 777,
+      "Town Hall Level Required": 12
+    },
+    "12": {
+      "Damage": {
+        "Second": 38,
+        "Shot": 190
+      },
+      "HitPoints": 1500,
+      "Cost": 6500000,
+      "Time": 10080,
+      "Experience Gained": 777,
+      "Town Hall Level Required": 12
+    },
+    "13": {
+      "Damage": {
+        "Second": 42,
+        "Shot": 210
+      },
+      "HitPoints": 1700,
+      "Cost": 8200000,
+      "Time": 10800,
+      "Experience Gained": 804,
+      "Town Hall Level Required": 13
+    },
+    "14": {
+      "Damage": {
+        "Second": 48,
+        "Shot": 240
+      },
+      "HitPoints": 1950,
+      "Cost": 15000000,
+      "Time": 17280,
+      "Experience Gained": 1018,
+      "Town Hall Level Required": 14
+    },
+    "15": {
+      "Damage": {
+        "Second": 54,
+        "Shot": 270
+      },
+      "HitPoints": 2150,
+      "Cost": 19000000,
+      "Time": 19440,
+      "Experience Gained": 1080,
+      "Town Hall Level Required": 15
+    },
+    "16": {
+      "Damage": {
+        "Second": 60,
+        "Shot": 300
+      },
+      "HitPoints": 2300,
+      "Cost": 19500000,
+      "Time": "20880",
+      "Experience Gained": 1119,
+      "Town Hall Level Required": 16
+    }
+  }
+}

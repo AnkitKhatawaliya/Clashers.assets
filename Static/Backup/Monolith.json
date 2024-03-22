@@ -1,0 +1,35 @@
+{
+  "Name": "Monolith",
+  "Damage Type": "Single",
+  "Resource": "Dark Elixir",
+  "Length": 3,
+  "Breadth": 3,
+  "Range": 11,
+  "Levels": {
+    "1": {
+      "Damage": {
+        "Second": 150,
+        "Shot": 225,
+        "Bonus":11
+      },
+      "HitPoints": 4747,
+      "Cost": 300000,
+      "Time": 19440,
+      "Experience Gained": 1080,
+      "Town Hall Level Required": 15
+    },
+    "2": {
+      "Damage": {
+        "Second": 175,
+        "Shot": 262.5,
+        "Bonus":12
+      },
+      "HitPoints": 5050,
+      "Cost": 360000,
+      "Time": 20160,
+      "Experience Gained": 1099,
+      "Town Hall Level Required": 15
+    }
+
+  }
+}

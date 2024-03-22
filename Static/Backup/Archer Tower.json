@@ -1,0 +1,241 @@
+{
+  "Air Defence": "Mortar",
+  "Damage Type": "Single",
+  "Resource": "Gold",
+  "Length": 3,
+  "Breadth": 3,
+    "Range": 10,
+  "Levels": {
+    "1": {
+      "Damage": {
+        "Second": 11,
+        "Shot": 5.5
+      },
+      "HitPoints": 380,
+      "Cost": 1000,
+      "Time": 1,
+      "Exp Gained": 7,
+      "Town Hall": 2
+    },
+    "2": {
+      "Damage": {
+        "Second": 15,
+        "Shot": 7.5
+      },
+      "HitPoints": 420,
+      "Cost": 2000,
+      "Time": 15,
+      "Exp Gained": 30,
+      "Town Hall": 2
+    },
+    "3": {
+      "Damage": {
+        "Second": 19,
+        "Shot": 9.5
+      },
+      "HitPoints": 460,
+      "Cost": 5000,
+      "Time": 45,
+      "Exp Gained": 51,
+      "Town Hall": 3
+    },
+    "4": {
+      "Damage": {
+        "Second": 25,
+        "Shot": 12.5
+      },
+      "HitPoints": 500,
+      "Cost": 20000,
+      "Time": 180,
+      "Exp Gained": 103,
+      "Town Hall": 4
+    },
+    "5": {
+      "Damage": {
+        "Second": 30,
+        "Shot": 15
+      },
+      "HitPoints": 540,
+      "Cost": 80000,
+      "Time": 240,
+      "Exp Gained": 120,
+      "Town Hall": 5
+    },
+    "6": {
+      "Damage": {
+        "Second": 35,
+        "Shot": 17.5
+      },
+      "HitPoints": 580,
+      "Cost": 150000,
+      "Time": 300,
+      "Exp Gained": 134,
+      "Town Hall": 5
+    },
+    "7": {
+      "Damage": {
+        "Second": 42,
+        "Shot": 21
+      },
+      "HitPoints": 630,
+      "Cost": 300000,
+      "Time": 480,
+      "Exp Gained": 169,
+      "Town Hall": 6
+    },
+    "8": {
+      "Damage": {
+        "Second": 48,
+        "Shot": 24
+      },
+      "HitPoints": 690,
+      "Cost": 480000,
+      "Time": 600,
+      "Exp Gained": 189,
+      "Town Hall": 7
+    },
+    "9": {
+      "Damage": {
+        "Second": 56,
+        "Shot": 28
+      },
+      "HitPoints": 750,
+      "Cost": 580000,
+      "Time": 720,
+      "Exp Gained": 207,
+      "Town Hall": 8
+    },
+    "10": {
+      "Damage": {
+        "Second": 63,
+        "Shot": 31.5
+      },
+      "HitPoints": 810,
+      "Cost": 760000,
+      "Time": 720,
+      "Exp Gained": 207,
+      "Town Hall": 8
+    },
+    "11": {
+      "Damage": {
+        "Second": 70,
+        "Shot": 35
+      },
+      "HitPoints": 890,
+      "Cost": 1000000,
+      "Time": 840,
+      "Exp Gained": 224,
+      "Town Hall": 9
+    },
+    "12": {
+      "Damage": {
+        "Second": 75,
+        "Shot": 37.5
+      },
+      "HitPoints": 970,
+      "Cost": 1100000,
+      "Time": 1080,
+      "Exp Gained": 254,
+      "Town Hall": 10
+    },
+    "13": {
+      "Damage": {
+        "Second": 80,
+        "Shot": 40
+      },
+      "HitPoints": 1050,
+      "Cost": 2000000,
+      "Time": 1080,
+      "Exp Gained": 254,
+      "Town Hall": 10
+    },
+    "14": {
+      "Damage": {
+        "Second": 90,
+        "Shot": 45
+      },
+      "HitPoints": 1130,
+      "Cost": 2200000,
+      "Time": 1800,
+      "Exp Gained": 328,
+      "Town Hall": 11
+    },
+    "15": {
+      "Damage": {
+        "Second": 100,
+        "Shot": 50
+      },
+      "HitPoints": 1230,
+      "Cost": 2500000,
+      "Time": 1800,
+      "Exp Gained": 328,
+      "Town Hall": 11
+    },
+    "16": {
+      "Damage": {
+        "Second": 105,
+        "Shot": 52.5
+      },
+      "HitPoints": 1330,
+      "Cost": 4700000,
+      "Time": 4320,
+      "Exp Gained": 509,
+      "Town Hall": 12
+    },
+    "17": {
+      "Damage": {
+        "Second": 110,
+        "Shot": 55
+      },
+      "HitPoints": 1410,
+      "Cost": 6100000,
+      "Time": 4320,
+      "Exp Gained": 509,
+      "Town Hall": 12
+    },
+    "18": {
+      "Damage": {
+        "Second": 120,
+        "Shot": 60
+      },
+      "HitPoints": 1510,
+      "Cost": 6800000,
+      "Time": 10080,
+      "Exp Gained": 777,
+      "Town Hall": 13
+    },
+    "19": {
+      "Damage": {
+        "Second": 130,
+        "Shot": 65
+      },
+      "HitPoints": 1600,
+      "Cost": 8000000,
+      "Time": 10080,
+      "Exp Gained": 777,
+      "Town Hall": 13
+    },
+    "20": {
+      "Damage": {
+        "Second": 138,
+        "Shot": 69
+      },
+      "HitPoints": 1700,
+      "Cost": 11600000,
+      "Time": 13680,
+      "Exp Gained": 905,
+      "Town Hall": 14
+    },
+    "21": {
+      "Damage": {
+        "Second": 145,
+        "Shot": 72.5
+      },
+      "HitPoints": 1800,
+      "Cost": 16000000,
+      "Time": 19080,
+      "Exp Gained": 1069,
+      "Town Hall": 15
+    }
+  }
+}

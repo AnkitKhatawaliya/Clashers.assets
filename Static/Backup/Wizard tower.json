@@ -1,0 +1,186 @@
+{
+  "Name": "Wizard Tower",
+  "Damage Type": "Area",
+  "Resource": "Gold",
+  "Length": 3,
+  "Breadth": 3,
+  "Range": 7,
+  "Levels": {
+    "1": {
+      "Damage": {
+        "Second": 11,
+        "Shot": 14.3
+      },
+      "HitPoints": 620,
+      "Cost": 120000,
+      "Time": 180,
+      "Experience Gained": 103,
+      "Town Hall Level Required": 5
+    },
+    "2": {
+      "Damage": {
+        "Second": 13,
+        "Shot": 16.9
+      },
+      "HitPoints": 650,
+      "Cost": 220000,
+      "Time": 180,
+      "Experience Gained": 103,
+      "Town Hall Level Required": 5
+    },
+    "3": {
+      "Damage": {
+        "Second": 16,
+        "Shot": 20.8
+      },
+      "HitPoints": 680,
+      "Cost": 400000,
+      "Time": 480,
+      "Experience Gained": 169,
+      "Town Hall Level Required": 6
+    },
+    "4": {
+      "Damage": {
+        "Second": 20,
+        "Shot": 26
+      },
+      "HitPoints": 730,
+      "Cost": 540000,
+      "Time": 720,
+      "Experience Gained": 207,
+      "Town Hall Level Required": 7
+    },
+    "5": {
+      "Damage": {
+        "Second": 24,
+        "Shot": 31.2
+      },
+      "HitPoints": 840,
+      "Cost": 700000,
+      "Time": 1080,
+      "Experience Gained": 254,
+      "Town Hall Level Required": 8
+    },
+    "6": {
+      "Damage": {
+        "Second": 32,
+        "Shot": 41.6
+      },
+      "HitPoints": 960,
+      "Cost": 1000000,
+      "Time": 1440,
+      "Experience Gained": 293,
+      "Town Hall Level Required": 8
+    },
+    "7": {
+      "Damage": {
+        "Second": 40,
+        "Shot": 52
+      },
+      "HitPoints": 1200,
+      "Cost": 2000000,
+      "Time": 2160,
+      "Experience Gained": 360,
+      "Town Hall Level Required": 9
+    },
+    "8": {
+      "Damage": {
+        "Second": 45,
+        "Shot": 58.5
+      },
+      "HitPoints": 1440,
+      "Cost": 2200000,
+      "Time": 2880,
+      "Experience Gained": 415,
+      "Town Hall Level Required": 10
+    },
+    "9": {
+      "Damage": {
+        "Second": 50,
+        "Shot": 65
+      },
+      "HitPoints": 1680,
+      "Cost": 2800000,
+      "Time": 3600,
+      "Experience Gained": 464,
+      "Town Hall Level Required": 10
+    },
+    "10": {
+      "Damage": {
+        "Second": 62,
+        "Shot": 80.6
+      },
+      "HitPoints": 2000,
+      "Cost": 4000000,
+      "Time": 4320,
+      "Experience Gained": 509,
+      "Town Hall Level Required": 11
+    },
+    "11": {
+      "Damage": {
+        "Second": 70,
+        "Shot": 91
+      },
+      "HitPoints": 2240,
+      "Cost": 7200000,
+      "Time": 10080,
+      "Experience Gained": 777,
+      "Town Hall Level Required": 12
+    },
+    "12": {
+      "Damage": {
+        "Second": 78,
+        "Shot": 101.4
+      },
+      "HitPoints": 2480,
+      "Cost": 9200000,
+      "Time": 11520,
+      "Experience Gained": 831,
+      "Town Hall Level Required": 13
+    },
+    "13": {
+      "Damage": {
+        "Second": 84,
+        "Shot": 109.2
+      },
+      "HitPoints": 2700,
+      "Cost": 10200000,
+      "Time": 12960,
+      "Experience Gained": 881,
+      "Town Hall Level Required": 13
+    },
+    "14": {
+      "Damage": {
+        "Second": 90,
+        "Shot": 117
+      },
+      "HitPoints": 2900,
+      "Cost": 12000000,
+      "Time": "13d",
+      "Experience Gained": 1059,
+      "Town Hall Level Required": 14
+    },
+    "15": {
+      "Damage": {
+        "Second": 95,
+        "Shot": 123.5
+      },
+      "HitPoints": 3000,
+      "Cost": 19200000,
+      "Time": 19440,
+      "Experience Gained": 1080,
+      "Town Hall Level Required": 15
+    },
+    "16": {
+      "Damage": {
+        "Second": 102,
+        "Shot": 132.6
+      },
+      "HitPoints": 3150,
+      "Cost": 20200000,
+      "Time": 20880,
+      "Experience Gained": 1119,
+      "Town Hall Level Required": 16
+    }
+  }
+}

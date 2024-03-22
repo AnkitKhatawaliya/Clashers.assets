@@ -1,0 +1,85 @@
+{
+  "Name": "Builder Hut",
+  "Damage Type": "Single",
+  "Resource": "Gold",
+  "Length": 2,
+  "Breadth": 2,
+  "Range": 7,
+  "Levels": {
+    "1": {
+      "Damage": {
+        "Second": 0,
+        "Shot": 0
+      },
+      "Repair": {
+        "Second": 0,
+        "Hit": 0
+      },
+      "HitPoints": 250,
+      "Build Cost": 0,
+      "Build Time": 0,
+      "Experience Gained": 0,
+      "Town Hall Level Required": 1
+    },
+    "2": {
+      "Damage": {
+        "Second": 80,
+        "Shot": 32
+      },
+      "Repair": {
+        "Second": 50,
+        "Hit": 37.5
+      },
+      "HitPoints": 1000,
+      "Build Cost": 8000000,
+      "Build Time": 13680,
+      "Experience Gained": 905,
+      "Town Hall Level Required": 14
+    },
+    "3": {
+      "Damage": {
+        "Second": 100,
+        "Shot": 40
+      },
+      "Repair": {
+        "Second": 60,
+        "Hit": 45
+      },
+      "HitPoints": 1300,
+      "Build Cost": 10000000,
+      "Build Time": 16560,
+      "Experience Gained": 996,
+      "Town Hall Level Required": 14
+    },
+    "4": {
+      "Damage": {
+        "Second": 120,
+        "Shot": 48
+      },
+      "Repair": {
+        "Second": 70,
+        "Hit": 52.5
+      },
+      "HitPoints": 1600,
+      "Build Cost": 12000000,
+      "Build Time": 19080,
+      "Experience Gained": 1069,
+      "Town Hall Level Required": 14
+    },
+    "5": {
+      "Damage": {
+        "Second": 135,
+        "Shot": 54
+      },
+      "Repair": {
+        "Second": 80,
+        "Hit": 60
+      },
+      "HitPoints": 1800,
+      "Build Cost": 17000000,
+      "Build Time": 20520,
+      "Experience Gained": 1109,
+      "Town Hall Level Required": 15
+    }
+  }
+}

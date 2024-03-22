@@ -1,0 +1,183 @@
+{
+  "Name": "Inferno Tower",
+  "Resource": "Gold",
+  "Length": 2,
+  "Breadth": 2,
+    "Range": {
+      "Single": 9,
+      "Multi":10
+    },
+  "Levels": {
+    "1": {
+      "Damage": {
+        "Single Target": {
+          "Damage": [
+            30,
+            800
+          ]
+        },
+        "Multi Target": {
+          "Damage": 30,
+          "Count": 0
+        }
+      },
+      "HitPoints": 1500,
+      "Cost": 1500000,
+      "Time": 2880,
+      "Experience Gained": 415,
+      "Town Hall Level Required": 10
+    },
+    "2": {
+      "Damage": {
+        "Single Target": {
+          "Damage": [
+            35,
+            1000
+          ]
+        },
+        "Multi Target": {
+          "Damage": 35,
+          "Count": 0
+        }
+      },
+      "HitPoints": 1800,
+      "Cost": 2000000,
+      "Build Time": "2d 12h",
+      "Experience Gained": 464,
+      "Town Hall Level Required": 10
+    },
+    "3": {
+      "Damage": {
+        "Single Target": {
+          "Damage": [
+            40,
+            1200
+          ]
+        },
+        "Multi Target": {
+          "Damage": 40,
+          "Count": 0
+        }
+      },
+      "HitPoints": 2100,
+      "Cost": 3000000,
+      "Build Time": "3d",
+      "Experience Gained": 509,
+      "Town Hall Level Required": 10
+    },
+    "4": {
+      "Damage": {
+        "Single Target": {
+          "Damage": [
+            50,
+            1400
+          ]
+        },
+        "Multi Target": {
+          "Damage": 50,
+          "Count": 0
+        }
+      },
+      "HitPoints": 2400,
+      "Cost": 3400000,
+      "Build Time": "4d 6h",
+      "Experience Gained": 605,
+      "Town Hall Level Required": 11
+    },
+    "5": {
+      "Damage": {
+        "Single Target": {
+          "Damage": [
+            60,
+            1600
+          ]
+        },
+        "Multi Target": {
+          "Damage": 60,
+          "Count": 0
+        }
+      },
+      "HitPoints": 2700,
+      "Cost": 4200000,
+      "Build Time": "5d",
+      "Experience Gained": 657,
+      "Town Hall Level Required": 11
+    },
+    "6": {
+      "Damage": {
+        "Single Target": {
+          "Damage": [
+            70,
+            1800
+          ]
+        },
+        "Multi Target": {
+          "Damage": 70,
+          "Count": 0
+        }
+      },
+      "HitPoints": 3000,
+      "Cost": 6500000,
+      "Build Time": "8d 12h",
+      "Experience Gained": 856,
+      "Town Hall Level Required": 12
+    },
+    "7": {
+      "Damage": {
+        "Single Target": {
+          "Damage": [
+            85,
+            2000
+          ]
+        },
+        "Multi Target": {
+          "Damage": 85,
+          "Count": 0
+        }
+      },
+      "HitPoints": 3300,
+      "Cost": 10500000,
+      "Build Time": "9d",
+      "Experience Gained": 881,
+      "Town Hall Level Required": 13
+    },
+    "8": {
+      "Damage": {
+        "Single Target": {
+          "Damage": [
+            100,
+            2200
+          ]
+        },
+        "Multi Target": {
+          "Damage": 100,
+          "Count": 0
+        }
+      },
+      "HitPoints": 3700,
+      "Cost": 12600000,
+      "Build Time": "13d",
+      "Experience Gained": 1059,
+      "Town Hall Level Required": 14
+    },
+    "9": {
+      "Damage": {
+        "Single Target": {
+          "Damage": [
+            110,
+            2400
+          ]
+        },
+        "Multi Target": {
+          "Damage": 110,
+          "Count": 0
+        }
+      },
+      "HitPoints": 4000,
+      "Cost": 21000000,
+      "Build Time": "13d 18h",
+      "Experience Gained": 1089,
+      "Town Hall Level Required": 15
+    }
+  }
+}

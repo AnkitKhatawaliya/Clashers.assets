@@ -1,0 +1,142 @@
+{
+  "Name": "Bomb Tower",
+  "Damage Type": "Area",
+  "Resource": "Gold",
+  "Length": 3,
+  "Breadth": 3,
+  "Range": 6,
+  "Levels": {
+    "1": {
+      "Damage": {
+        "Second": 24,
+        "Shot": 26.4,
+        "Death Damage": 150
+      },
+      "HitPoints": 650,
+      "Cost": 700000,
+      "Time": 1080,
+      "Experience Gained": 254,
+      "Town Hall Level Required": 8
+    },
+    "2": {
+      "Damage": {
+        "Second": 28,
+        "Shot": 30.8,
+        "Death Damage": 180
+      },
+      "HitPoints": 700,
+      "Cost": 1000000,
+      "Time": 1440,
+      "Experience Gained": 293,
+      "Town Hall Level Required": 8
+    },
+    "3": {
+      "Damage": {
+        "Second": 32,
+        "Shot": 35.2,
+        "Death Damage": 220
+      },
+      "HitPoints": 750,
+      "Cost": 1600000,
+      "Time": 2160,
+      "Experience Gained": 360,
+      "Town Hall Level Required": 9
+    },
+    "4": {
+      "Damage": {
+        "Second": 40,
+        "Shot": 44,
+        "Death Damage": 260
+      },
+      "HitPoints": 850,
+      "Cost": 2000000,
+      "Time": 2880,
+      "Experience Gained": 415,
+      "Town Hall Level Required": 10
+    },
+    "5": {
+      "Damage": {
+        "Second": 48,
+        "Shot": 52.8,
+        "Death Damage": 300
+      },
+      "HitPoints": 1050,
+      "Cost": 2800000,
+      "Time": 4320,
+      "Experience Gained": 509,
+      "Town Hall Level Required": 11
+    },
+    "6": {
+      "Damage": {
+        "Second": 56,
+        "Shot": 61.6,
+        "Death Damage": 350
+      },
+      "HitPoints": 1300,
+      "Cost": 4000000,
+      "Time": 4320,
+      "Experience Gained": 509,
+      "Town Hall Level Required": 11
+    },
+    "7": {
+      "Damage": {
+        "Second": 64,
+        "Shot": 70.4,
+        "Death Damage": 400
+      },
+      "HitPoints": 1600,
+      "Cost": 6300000,
+      "Time": 11520,
+      "Experience Gained": 831,
+      "Town Hall Level Required": 12
+    },
+    "8": {
+      "Damage": {
+        "Second": 72,
+        "Shot": 79.2,
+        "Death Damage": 450
+      },
+      "HitPoints": 1900,
+      "Cost": 8800000,
+      "Time": 12960,
+      "Experience Gained": 881,
+      "Town Hall Level Required": 13
+    },
+    "9": {
+      "Damage": {
+        "Second": 84,
+        "Shot": 92.4,
+        "Death Damage": 500
+      },
+      "HitPoints": 2300,
+      "Cost": 12300000,
+      "Time": 18720,
+      "Experience Gained": 1059,
+      "Town Hall Level Required": 14
+    },
+    "10": {
+      "Damage": {
+        "Second": 94,
+        "Shot": 103.4,
+        "Death Damage": 550
+      },
+      "HitPoints": 2500,
+      "Cost": 20000000,
+      "Time": 19440,
+      "Experience Gained": 1080,
+      "Town Hall Level Required": 15
+    },
+    "11": {
+      "Damage": {
+        "Second": 104,
+        "Shot": 114.4,
+        "Death Damage": 600
+      },
+      "HitPoints": 2700,
+      "Cost": 20800000,
+      "Time": 20880,
+      "Experience Gained": 1119,
+      "Town Hall Level Required": 16
+    }
+  }
+}

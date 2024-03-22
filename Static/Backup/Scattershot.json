@@ -1,0 +1,58 @@
+{
+  "Name": "Scattershot",
+  "Damage Type": "Splash",
+  "Resource": "Gold",
+  "Length": 3,
+  "Breadth": 3,
+  "Range": [3,10],
+  "Levels": {
+    "1": {
+      "Damage": {
+        "Second": 125,
+        "Shot": [300,403.5],
+        "Splash": [100,300]
+      },
+      "HitPoints": 3600,
+      "Cost": 11000000,
+      "Time": "10d",
+      "Experience Gained": 929,
+      "Town Hall Level Required": 13
+    },
+    "2": {
+      "Damage": {
+        "Second": 150,
+        "Shot": [360,482.2],
+        "Splash": [120,360]
+      },
+      "HitPoints": 4200,
+      "Cost": 12000000,
+      "Time": "11d",
+      "Experience Gained": 974,
+      "Town Hall Level Required": 13
+    },
+    "4": {
+      "Damage": {
+        "Second": 175,
+        "Shot": [420,564.9],
+        "Splash": [140,420]
+      },
+      "HitPoints": 4800,
+      "Cost": 12600000,
+      "Time": "13d",
+      "Experience Gained": 1059,
+      "Town Hall Level Required": 14
+    },
+    "5": {
+      "Damage": {
+        "Second": 185,
+        "Shot": [450,597.2],
+        "Splash": [150,450]
+      },
+      "HitPoints": 5100,
+      "Cost": 21300000,
+      "Time": "14d",
+      "Experience Gained": 1099,
+      "Town Hall Level Required": 15
+    }
+  }
+}
