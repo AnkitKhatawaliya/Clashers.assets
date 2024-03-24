@@ -1,0 +1,141 @@
+{
+  "Clan Castle": 5,
+  "Gold Storage": {
+    "Level": 11,
+    "Count": 4
+  },
+  "Elixir Storage": {
+    "Level": 11,
+    "Count": 4
+  },
+  "Dark Elixir Storage": {
+    "Level": 6
+  },
+  "Gold Mine": {
+    "Level": 12,
+    "Count": 7
+  },
+  "Elixir Collector": {
+    "Level": 12,
+    "Count": 7
+  },
+  "Dark Elixir Drill": {
+    "Level": 6,
+    "Count": 3
+  },
+  "Cannon": {
+    "Level": 11,
+    "Count": 5
+  },
+  "Archer Tower": {
+    "Level":11,
+    "Count":6
+  },
+  "Wizard Tower": {
+    "Level": 7,
+    "Count": 4
+  },
+  "Mortar": {
+    "Level":7,
+    "Count": 4
+  },
+  "Air Defense": {
+    "Level":7,
+    "Count": 4
+  },
+  "X-Bow": {
+    "Level": 3,
+    "Count": 2
+  },
+  "Bomb Tower": {
+    "Level": 3,
+    "Count": 1
+  },
+  "Air Sweeper": {
+    "Level": 5,
+    "Count": 3
+  },
+  "Hidden Tesla": {
+    "Level":7,
+    "Count": 4
+  },
+  "Bomb": {
+    "Level":6,
+    "Count":6
+  },
+  "Spring Trap": {
+    "Level":4,
+    "Count":6
+  },
+  "Air Bomb": {
+    "Level": 4,
+    "Count":4
+  },
+  "Seeking Air Mine": {
+    "Level":2,
+    "Count":4
+  },
+  "Skeleton Trap": {
+    "Level":3,
+    "Count":2
+  },
+  "Giant Bomb": {
+    "Level":3,
+    "Count":4
+  },
+  "Army Camp": {
+    "Level": 7,
+    "Count": 4
+  },
+  "Barracks": 11,
+  "Dark Barracks": 6,
+  "Spell Factory": 4,
+  "Dark Spell Factory": 4,
+  "Laboratory": 7,
+  "Blacksmith": 2,
+
+  "Barbarian": 6,
+  "Archer": 6,
+  "Giant": 6,
+  "Goblin": 6,
+  "Wall Breaker": 5,
+  "Balloon": 6,
+  "Wizard": 6,
+  "Healer": 4,
+  "Dragon": 4,
+  "P.E.K.K.A": 4,
+  "Baby Dragon": 2,
+
+  "Minion": 5,
+  "Hog Rider ": 5,
+  "Valkyrie": 4,
+  "Golem": 4,
+  "Witch": 2,
+  "Lava Hound": 2,
+
+  "Lightning Spell": 6,
+  "Healing Spell": 6,
+  "Rage Spell": 5,
+  "Jump Spell": 2,
+  "Freeze Spell": 2,
+  "Poison Spell": 3,
+  "Earthquake Spell": 3,
+  "Haste Spell": 2,
+  "Skeleton Spell": 1,
+
+  "Barbarian King": 30,
+  "Archer Queen": 30,
+
+  "Barbarian Puppet": 9,
+  "Rage Vial": 9,
+  "Earthquake Boots": 9,
+
+  "Archer Puppet": 9,
+  "Invisibility Vial": 9,
+  "Giant Arrow": 9,
+
+  "Walls": {
+    "Count": 250,
+    "Level": 10
+  }
+}
